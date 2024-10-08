@@ -42,4 +42,8 @@ The data set were provided by our tutors,and some data was extracted from sites 
 
 ### DATA VISUALISATION
 
+![DATA PICS 1](https://github.com/user-attachments/assets/952ae78c-01ec-4f25-a0ee-afd9198a75ae)
+
+
+![DATA PICS 2](https://github.com/user-attachments/assets/8110e05c-d4c3-4e92-8fe3-33eb32dce162)
 
